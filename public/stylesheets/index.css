@@ -1,0 +1,23 @@
+body {
+  background: url(/images/dust_scratches.png) repeat 0 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Corben', Georgia, Times, serif;
+}
+
+h3 {
+  text-shadow: 1px 1px 1px grey;
+}
+
+p, div {
+    font-family: 'Nobile', Helvetica, Arial, sans-serif;
+}
+
+.jumbotron {
+  box-shadow: 0 0 1em 1em grey
+}
+
+.subTitles {
+  text-indent: 10px;
+}
